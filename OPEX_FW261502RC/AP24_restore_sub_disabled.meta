@@ -1,0 +1,1 @@
+{"Name":"AP24_restore_sub_disabled","Description":"AP24: Verify CFG_COMMUNICATION_OP_RESTORE_RES_SUBSCRIPTION=No does NOT restore MID 0060/0061 subscription after non-regular disconnect."}
