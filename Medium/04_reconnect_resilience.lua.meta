@@ -1,0 +1,5 @@
+{
+  "name": "04_reconnect_resilience",
+  "description": "Disconnect and reconnect resilience test",
+  "tags": []
+}

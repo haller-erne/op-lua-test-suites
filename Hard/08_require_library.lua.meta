@@ -1,0 +1,5 @@
+{
+  "name": "08_require_library",
+  "description": "Load and use a 3rd-party Lua module via require(). Requires Unrestricted mode.",
+  "tags": []
+}

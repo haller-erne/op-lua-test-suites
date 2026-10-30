@@ -1,0 +1,5 @@
+{
+  "name": "AP24_restore_sub",
+  "description": "AP24: Verify CFG_COMMUNICATION_OP_RESTORE_RES_SUBSCRIPTION restores MID 0060/0061 subscription after non-regular disconnect.",
+  "tags": []
+}

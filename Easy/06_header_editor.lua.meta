@@ -1,0 +1,5 @@
+{
+  "name": "06_header_editor",
+  "description": "Header Editor API demo: SetHeader, GetHeader, ClearHeader, per-call overrides",
+  "tags": []
+}

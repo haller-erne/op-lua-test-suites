@@ -1,0 +1,5 @@
+{
+  "name": "05_disconnect_recovery_stress",
+  "description": "Rapid connect/disconnect stress test",
+  "tags": []
+}

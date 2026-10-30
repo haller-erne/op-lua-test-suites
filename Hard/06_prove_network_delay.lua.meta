@@ -1,0 +1,5 @@
+{
+  "name": "06_prove_network_delay",
+  "description": "Prove network simulation delays using os.clock() timing. Requires Unrestricted mode.",
+  "tags": []
+}
